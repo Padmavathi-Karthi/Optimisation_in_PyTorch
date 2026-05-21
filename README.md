@@ -106,6 +106,9 @@ pip install torch numpy matplotlib
 
 # Open notebook
 jupyter notebook LLM_Architectures.ipynb
+```
+
+---
 
 ## 📁 Project Structure
 
@@ -118,6 +121,7 @@ Projects/
 │
 └── scripts/
     └── clean_notebook.py     # Utility script to fix Jupyter notebook metadata for GitHub rendering
+
 ```
 
 ## ⚠️ Notes
