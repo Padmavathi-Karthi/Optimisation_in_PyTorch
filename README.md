@@ -109,6 +109,7 @@ jupyter notebook LLM_Architectures.ipynb
 
 ## 📁 Project Structure
 
+```text
 Projects/
 │
 ├── LLM_Architectures.ipynb # Main notebook (SST-2 sentiment classification)
@@ -116,6 +117,7 @@ Projects/
 │
 └── scripts/
 └── clean_notebook.py # Utility script to fix Jupyter notebook metadata for GitHub rendering
+```
 
 ## ⚠️ Notes
 
