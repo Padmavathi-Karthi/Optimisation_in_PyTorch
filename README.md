@@ -115,12 +115,15 @@ jupyter notebook LLM_Architectures.ipynb
 ```text
 Projects/
 │
+└── scripts/
+│    └── clean_notebook.py     # Utility script to fix Jupyter notebook metadata for GitHub rendering
+│
 ├── LLM_Architectures.ipynb    # Main notebook (SST-2 sentiment classification)
 │
 ├── README.md                  # Project documentation
 │
-└── scripts/
-    └── clean_notebook.py     # Utility script to fix Jupyter notebook metadata for GitHub rendering
+├── Requirements.txt           # Dependencies
+
 
 ```
 
